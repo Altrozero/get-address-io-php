@@ -3,7 +3,6 @@
  * Created by IntelliJ IDEA.
  *
  * @author Timothy Wilson <tim.wilson@aceviral.com>
- * @copyright AceViral.com LTD 2019
  * Date: 03/04/2019
  * Time: 12:02
  */

@@ -6,7 +6,6 @@
  * https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Formatting
  *
  * @author Timothy Wilson <tim.wilson@aceviral.com>
- * @copyright AceViral.com LTD 2019
  * Date: 13/02/2019
  * Time: 18:32
  */
