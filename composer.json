@@ -3,7 +3,8 @@
   "description": "Quick interface for using getAddress.io find functionality",
   "require": {
     "php": "^7.1",
-    "phpunit/phpunit": "^8"
+    "phpunit/phpunit": "^8",
+    "altrozero/postcode-uk": ">= 1"
   },
   "autoload": {
     "psr-4": {

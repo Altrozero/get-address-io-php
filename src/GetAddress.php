@@ -14,6 +14,7 @@ use Altrozero\GetAddressIOPHP\Exceptions\BadRequestException;
 use Altrozero\GetAddressIOPHP\Exceptions\BadResponseException;
 use Altrozero\GetAddressIOPHP\Exceptions\ConnectionException;
 use Altrozero\GetAddressIOPHP\Exceptions\RequestLimitReachedException;
+use Altrozero\PostcodeUK\Postcode;
 use \Exception;
 use InvalidArgumentException;
 use stdClass;

@@ -10,7 +10,6 @@
     </php>
     <testsuites>
         <testsuite name="get-address-io-oho Test">
-            <file>test/PostcodeTest.php</file>
 <!--            <file>test/GetAddressTest.php</file>-->
         </testsuite>
     </testsuites>
