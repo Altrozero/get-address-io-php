@@ -153,7 +153,6 @@ class GetAddress
                 $url .= '&';
             }
         }
-        echo $url;
 
         return $url;
     }
