@@ -152,6 +152,8 @@ class GetAddress
 
                 $url .= '&';
             }
+            
+            $url = substr($url, 0, -1);
         }
 
         return $url;
